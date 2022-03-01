@@ -1,0 +1,7 @@
+origin  https://github.com/s1ckoleg/KotlinAsFirst2020.git (fetch)
+origin  https://github.com/s1ckoleg/KotlinAsFirst2020.git (push)
+upstream        https://github.com/s1ckoleg/KotlinAsFirst (fetch)
+upstream        https://github.com/s1ckoleg/KotlinAsFirst (push)
+upstream-vova   https://github.com/wishyoudie/KotlinAsFirst2021 (fetch)
+upstream-vova   https://github.com/wishyoudie/KotlinAsFirst2021 (push)
+
